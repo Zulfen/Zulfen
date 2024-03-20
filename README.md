@@ -4,7 +4,7 @@
 - 📗 Languages I am mostly fluent in: *Java (~4 years of experience, check ZulfBungee)*
 - 👍 Skills I have picked up:
     - Lots of OOP principles
-    - Multi-threaded practices (semaphores etc.)
+    - Multi-threaded concepts (semaphores etc.)
     - Networking w/ sockets
     - Maven / Gradle
     - Git
