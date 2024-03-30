@@ -17,4 +17,4 @@
 - 😄 Pronouns: Any! *(they/them preferred)*
 
 ## Want to get in touch?
-Feel free to drop me an email at contact@zulfen.com
+Feel free to drop me an email at contact@zulfen.com!
