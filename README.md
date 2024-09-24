@@ -13,7 +13,7 @@
     - Maven / Gradle
     - Git
 - 🌱 I’m currently learning: *C++, C#, Kotlin and React*
-- 🤔 Stuff I'm interested in: *Backend, Minecraft server, Android and game engine development*
+- 🤔 Stuff I'm interested in: *Backend, Minecraft server, web and game engine development*
 - 😄 Pronouns: Any! *(they/them preferred)*
 
 ## Want to get in touch?
