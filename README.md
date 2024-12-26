@@ -5,7 +5,9 @@
   - [ZulfEngine](https://github.com/Zulfen/ZulfEnginePlusPlus), a 3D game engine to be written in C++
 - ✔️ Notable projects that are mostly completed:
   - [ZulfBungee](https://github.com/Zulfen/ZulfBungee), an addon to a popular Minecraft server-side scripting language which adds inter-server communication (useful for multi-server setups). Has over 1,500 downloads. The plugin is due for a re-write at some point due to the stuff I learnt while making it.
-- 📗 Languages I am mostly fluent in: *Java (~5 years of experience, check ZulfBungee)*
+- 📗 Languages I am comfortable using:
+  - *Java (~5 years of experience, check ZulfBungee)*
+  - *Python (~3 months of experience*)
 - 👍 Skills I have picked up:
     - Lots of OOP principles
     - Multi-threaded concepts
