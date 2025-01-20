@@ -14,7 +14,7 @@
     - Networking w/ sockets
     - Maven / Gradle
     - Git
-- 🌱 I’m currently learning: *C++, C#, Kotlin and React*
+- 🌱 I’m currently learning: *C++, Kotlin and React*
 - 🤔 Stuff I'm interested in: *Backend, Minecraft server, web and game engine development*
 - 😄 Pronouns: Any! *(they/them preferred)*
 
