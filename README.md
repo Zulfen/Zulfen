@@ -16,7 +16,7 @@
     - Git
 - 🌱 I’m currently learning: *C++, Kotlin and React*
 - 🤔 Stuff I'm interested in: *Backend, Minecraft server, web and game engine development*
-- 😄 Pronouns: Any! *(they/them preferred)*
+- 😄 Pronouns: Any!
 
 ## Want to get in touch?
 Feel free to drop me an email at contact@zulfen.com to have a chat or for me to send over my CV.
